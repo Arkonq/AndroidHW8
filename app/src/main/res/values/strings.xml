@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidHW8</string>
+    <string name="student_info_image_desc">Image of Student</string>
+    <string name="student_info_name_surname_hint">Name Surname</string>
+    <string name="student_info_details_hint">Details</string>
+</resources>
